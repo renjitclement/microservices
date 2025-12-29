@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to easy QA banking"
+  contactDetails:
+    name: "smith james"
+    email: "smith@gmail.com"
+  onCallSupport:
+    - 091-90886543
+    - 081-86886986

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome to easy banking"
+  contactDetails:
+    name: "John honai"
+    email: "john@gmail.com"
+  onCallSupport:
+    - 091-90876543
+    - 081-86876986

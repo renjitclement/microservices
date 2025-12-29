@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related qa APIs "
+  contactDetails:
+    name: "luis Lech - Developer"
+    email: "luis@eazybank.com"
+  onCallSupport:
+    - (412) 419-3492
+    - (915) 382-1933
