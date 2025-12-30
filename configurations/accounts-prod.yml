@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to easy sccouts Production banking"
+  message: "welcome to easy accounts Production banking"
   contactDetails:
     name: "scaria james"
     email: "scaria@gmail.com"
